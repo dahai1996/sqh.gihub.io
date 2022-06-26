@@ -1,4 +1,6 @@
-theme: jekyll-theme-minimal
-logo: [Location of the logo]
+title: 简历
+logo: 
+description: 我的简历
 show_downloads: true
-google_analytics: [11]
+google_analytics:
+theme: jekyll-theme-minimal
