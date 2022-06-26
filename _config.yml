@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+logo: [Location of the logo]
+show_downloads: true
+google_analytics: [11]
